@@ -30,9 +30,5 @@
 5. featured
 - one
 - two
-<<<<<<< HEAD
 - two add
 - two update
-=======
-- two add
->>>>>>> two add
