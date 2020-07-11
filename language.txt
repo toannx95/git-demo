@@ -2,6 +2,7 @@
 - java
 - golang
 - php
+- python
 
 2. frontend
 - reactjs
