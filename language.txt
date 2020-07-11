@@ -5,3 +5,5 @@
 
 2. frontend
 - reactjs
+- angular
+- html/css/js
