@@ -3,8 +3,13 @@
 - golang
 - php
 - python
+- ruby
 
 2. frontend
 - reactjs
 - angular
 - html/css/js
+
+4. database
+- mysql
+- postgre
