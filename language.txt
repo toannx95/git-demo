@@ -4,6 +4,7 @@
 - php
 - python
 - java3
+- ruby
 
 2. frontend
 - reactjs
@@ -14,3 +15,7 @@
 3. fullstack
 - java
 - ruby
+
+4. database
+- mysql
+- postgre
