@@ -2,3 +2,5 @@
 - java
 
 2. frontend
+- angular
+- html/css/js
