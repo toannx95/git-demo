@@ -15,6 +15,7 @@
 3. fullstack
 - java
 - ruby
+- aaa golang
 
 4. database
 - mysql
@@ -32,3 +33,8 @@
 - two
 - two add
 - two update
+- aaa delete
+
+10. rebase
+- cafe
+- cafe1
