@@ -19,3 +19,6 @@
 4. database
 - mysql
 - postgre
+
+6. deploy
+- docker
