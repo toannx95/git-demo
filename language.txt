@@ -22,3 +22,7 @@
 
 6. deploy
 - docker
+
+7. ci/cd
+- jenkin
+- codacy
